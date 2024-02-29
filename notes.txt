@@ -1,0 +1,10 @@
+remove titles from carousel
+add 4th image
+1. Work, 2. Datasci, 3. USMC, 4. Rowing
+Only leave button to learn more.
+
+For columns under carousel:
+Do i need a "skills" column or section?
+Could I add this just below? or as part of About me?
+
+Make first three circles a bit like a resume? then last featurettes the portfolio projects?
