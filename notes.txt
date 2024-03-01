@@ -1,6 +1,7 @@
 remove titles from carousel
 add 4th image
-1. Work, 2. Datasci, 3. USMC, 4. Rowing
+1. Work, 2. Datasci, 3. USMC, 4. Rowing (do i need datasci?)
+Work can be arial video of P400, USMC slow mo cannon fire, rowing old video
 Only leave button to learn more.
 
 For columns under carousel:
