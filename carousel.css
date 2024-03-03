@@ -105,7 +105,13 @@ body {
 /* CUSTOM
 --------------------------------------------------*/
 .profile-max {
-  max-width: 140px;
+  max-width: 200px;
+  width:100%;
+  border-radius:50%;
+}
+
+.edu-max {
+  max-width: 100px;
   width:100%;
   border-radius:50%;
 }
